@@ -32,7 +32,7 @@ pip install selenium cairosvg opencv-python-headless numpy pandas matplotlib
 ### Setup
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/engagement-data-extractor.git
+git clone https://github.com/Henrikls/ytp_heatmap_data_extractor.git
 cd engagement-data-extractor
 ```
 
